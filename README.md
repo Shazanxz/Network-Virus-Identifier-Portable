@@ -4,7 +4,8 @@ This project helps identify and detect malicious software on your machine. To co
 
 The monitor shows, in real time, which programs on your computer are communicating with the internet, to which IP, and from which folder the program is running.
 
-> Portuguese version: [README PT/BR.md](README PTBR.md)
+> [README Portuguese Version](README.pt-BR.md)
+
 
 ---
 

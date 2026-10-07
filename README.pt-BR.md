@@ -4,7 +4,7 @@ Esse projeto ajuda a identificar e detectar softwares maliciosos na máquina. Pa
 
 O monitor mostra, em tempo real, quais programas do computador estão se comunicando com a internet, para qual IP e a partir de qual pasta o programa está rodando.
 
-> English version: [README.md](README.md)
+> [README English version](README.md)
 
 ---
 
