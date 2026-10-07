@@ -90,7 +90,7 @@ cd Network-Virus-Identifier
 npm install
 
 # 3. Gere o executável
-npm run build
+node run build
 ```
 
 O resultado fica em `build/NetworkVirusIdentifier.exe`.

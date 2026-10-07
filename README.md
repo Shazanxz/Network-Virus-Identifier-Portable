@@ -91,7 +91,7 @@ cd Network-Virus-Identifier-Portable
 npm install
 
 # 3. Build the executable
-npm run build
+node run build
 ```
 
 The result is saved at `build/NetworkVirusIdentifier.exe`.
